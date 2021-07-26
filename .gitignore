@@ -112,3 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+pythonProject/.idea/.name
+pythonProject/.idea/CursoEmVideopython.iml
+*.xml
+pythonProject/main.py
