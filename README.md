@@ -1,4 +1,4 @@
-# Python3-studies
+# Python-studies / Django
  Material de estudo 
 
 
