@@ -6,3 +6,6 @@
  com varios exercícios resolvidos.
 
  Implementando alguns mini projetos Django básico.
+
+
+Em andamento ..
